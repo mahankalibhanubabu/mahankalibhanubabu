@@ -52,7 +52,7 @@
 
 |              ⚙️ Role             |          ☁️ Focus         |     🚀 Building     |
 | :------------------------------: | :-----------------------: | :-----------------: |
-| **Workload Automation Engineer** |     **DevOps & Cloud**    | **Automation + AI** |
+| **Enterprise Automation Engineer** |     **DevOps & Cloud**    | **Automation + AI** |
 |         AutoSys • Automic        | AWS • Docker • Kubernetes |  Next.js • AI Apps  |
 
 </div>
