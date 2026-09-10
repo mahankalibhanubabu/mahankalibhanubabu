@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Mahankali Bhanu Babu**
 
-### ⚙️ Workload Automation Engineer | DevOps | Cloud | Full Stack | AI
+### ⚙️ Enterprise Automation Engineer | DevOps | Cloud | Full Stack | AI
 
 **Building automation, cloud infrastructure, CI/CD pipelines, and AI-powered applications.**
 
@@ -128,6 +128,196 @@ Workload Automation Engineer with hands-on experience in AutoSys and Automic (UC
 ---
 
 # 🚀 Featured Work
+# 🚀 Featured Kubernetes & Platform Engineering Projects
+
+> **Production-oriented Kubernetes systems focused on reliability, observability, progressive delivery, and automated operations.**
+
+### ⭐ SLO-Driven Observability Platform for Kubernetes Microservices
+
+**Production-style observability platform for Kubernetes workloads with SLO-driven reliability monitoring.**
+
+**Stack:** Kubernetes · Prometheus · Grafana · Alertmanager · Helm · Docker · GitHub Actions · SLO/SLI · Error Budgets
+
+**What I built:**
+
+* ☸️ Kubernetes-native microservice deployment architecture
+* 📊 Prometheus-based application and infrastructure metrics
+* 📈 Grafana dashboards for workload and service health
+* 🚨 Alertmanager-based reliability alerting
+* 🎯 Service Level Indicators (SLIs) and Service Level Objectives (SLOs)
+* 💰 Error-budget tracking for reliability decisions
+* 🔥 SLO-driven alerting instead of relying only on infrastructure thresholds
+* 🔄 CI/CD automation for repeatable deployments
+* 🧩 Helm-based Kubernetes configuration and deployment
+* 🛡️ Production-oriented resource and workload configuration
+
+**Engineering focus:**
+`Observability → SLOs → Error Budgets → Alerting → Reliability Engineering`
+
+🔗 **Repository:**
+https://github.com/mahankalibhanubabu/SLO-Driven-Observability-Platform-for-Kubernetes-Microservices
+
+🌐 **Live Preview:**
+https://mahankalibhanubabu.github.io/SLO-Driven-Observability-Platform-for-Kubernetes-Microservices/
+
+---
+
+### ⭐ CanaryGuard — SLO-Aware Progressive Delivery Platform
+
+**Kubernetes progressive delivery system designed to reduce deployment risk through automated canary analysis and reliability gates.**
+
+**Stack:** Kubernetes · Docker · Helm · Prometheus · Grafana · GitHub Actions · Canary Deployments · SLOs · Automated Rollback
+
+**What I built:**
+
+* ☸️ Kubernetes-based application deployment
+* 🐤 Canary release strategy for controlled production rollouts
+* 📊 Prometheus metrics used for release analysis
+* 🎯 SLO-based deployment quality gates
+* 🚦 Progressive traffic rollout and validation
+* 🔥 Error-rate and latency based release decisions
+* ↩️ Automated rollback when reliability thresholds are breached
+* 🔄 CI/CD pipeline for repeatable application delivery
+* 📦 Containerized workloads with Docker
+* 📈 Grafana dashboards for deployment and application health
+* 🛡️ Kubernetes resource limits, probes, and production-oriented workload configuration
+
+**Engineering focus:**
+`Progressive Delivery → SLO Validation → Automated Gates → Rollback → Reliability`
+
+🔗 **Repository:**
+https://github.com/mahankalibhanubabu/CanaryGuard
+
+---
+
+## 🏗️ Kubernetes Engineering Focus
+
+```text
+                         ☸️ KUBERNETES
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+             ▼                 ▼                 ▼
+          DELIVERY        OBSERVABILITY       SECURITY
+             │                 │                 │
+       CI/CD Pipelines     Prometheus        RBAC
+       Helm                Grafana            Secrets
+       Canary Releases     Alertmanager       Network Policies
+       Rollbacks           SLOs               Security Scanning
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                     RELIABILITY ENGINEERING
+                               │
+                ┌──────────────┼──────────────┐
+                ▼              ▼              ▼
+              SLI/SLO      Error Budgets   Auto Rollback
+                │              │              │
+                └──────────────┼──────────────┘
+                               ▼
+                    🚀 PRODUCTION DELIVERY
+```
+
+---
+
+## 🎯 What These Projects Demonstrate
+
+| Capability              | Implementation                                 |
+| ----------------------- | ---------------------------------------------- |
+| ☸️ Kubernetes           | Production-oriented workload orchestration     |
+| 🐳 Containers           | Dockerized microservices                       |
+| 🔄 CI/CD                | Automated build, test and deployment workflows |
+| 📦 Helm                 | Kubernetes application packaging               |
+| 📊 Observability        | Prometheus + Grafana                           |
+| 🚨 Alerting             | Alertmanager                                   |
+| 🎯 SRE                  | SLI / SLO / Error Budget concepts              |
+| 🐤 Progressive Delivery | Canary deployments                             |
+| ↩️ Rollbacks            | Automated reliability-based rollback           |
+| 🔐 DevSecOps            | Security scanning and deployment controls      |
+| 🏗️ IaC                 | Terraform-based infrastructure                 |
+| ☁️ Cloud                | AWS-oriented deployment architecture           |
+
+---
+
+## 🧠 Engineering Philosophy
+
+```text
+                    CODE
+                      │
+                      ▼
+                 🐳 CONTAINER
+                      │
+                      ▼
+                 ☸️ KUBERNETES
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+       DELIVERY              OBSERVABILITY
+          │                       │
+       CI/CD                   Metrics
+       Helm                    Logs
+       Canary                  Dashboards
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+                 SLO / SLI
+                      │
+                      ▼
+               ERROR BUDGET
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+       PROMOTE                 ROLLBACK
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+             RELIABLE DELIVERY
+```
+
+> **I focus on building systems where deployment, observability, and reliability are designed together — not added after the application is already running.**
+
+---
+
+## 🔥 Current DevOps Focus
+
+**Kubernetes • AWS • Docker • Terraform • Helm • GitHub Actions • Prometheus • Grafana • SLO/SLI • Progressive Delivery • DevSecOps**
+
+### Current Engineering Priorities
+
+* ☸️ Production Kubernetes architecture
+* 🔄 GitOps and progressive delivery
+* 📊 SLO-driven observability
+* 🛡️ Kubernetes security and DevSecOps
+* 🏗️ Infrastructure as Code
+* 🚀 Automated CI/CD
+* 📈 Reliability engineering
+* 💰 Resource optimization and cloud efficiency
+* 🔥 Automated failure detection and recovery
+
+---
+
+## 🚀 Other Selected Projects
+
+| Project                        | Stack                                              | Focus                          |
+| ------------------------------ | -------------------------------------------------- | ------------------------------ |
+| **Terraform Infrastructure**   | Terraform · AWS                                    | Infrastructure as Code         |
+| **CI/CD Pipeline Auto Deploy** | GitHub Actions · Docker · Vercel                   | Automated application delivery |
+| **AWS S3 File Service**        | Next.js · AWS S3 · TypeScript                      | Cloud storage                  |
+| **AWS DynamoDB + Next.js**     | Next.js · DynamoDB · AWS SDK                       | Serverless architecture        |
+| **AWS Lambda + Next.js**       | Next.js · AWS Lambda                               | Serverless APIs                |
+| **Docker Project**             | Docker · Node.js · Express                         | Containerization               |
+| **CollegePath AI**             | Next.js · React · TypeScript · PostgreSQL · OpenAI | AI application                 |
+| **AI Resume Analyzer & ATS**   | React · AI · Backend APIs                          | AI-powered application         |
+| **CitizenConnect India**       | React · PostgreSQL · APIs                          | Full-stack platform            |
+
+<div align="center">
+
+<a href="https://mahankali-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20ALL%20PROJECTS-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
 
 <div align="center">
 
